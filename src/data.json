@@ -38,7 +38,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "175 KB"
+                            "value": "303 KB"
                         },
                         {
                             "key": "Change",
@@ -46,11 +46,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004472
+                            "value": 0.004702
                         },
                         {
                             "key": "Q",
-                            "value": 86
+                            "value": 82
                         },
                         {
                             "key": "Photographer",
@@ -64,7 +64,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "164 KB"
+                            "value": "284 KB"
                         },
                         {
                             "key": "Change",
@@ -72,11 +72,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004581
+                            "value": 0.004678
                         },
                         {
                             "key": "Q",
-                            "value": 88
+                            "value": 85
                         },
                         {
                             "key": "Photographer",
@@ -90,19 +90,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "150 KB"
+                            "value": "293 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-14 %"
+                            "value": "-3 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.005082
+                            "value": 0.004593
                         },
                         {
                             "key": "Q",
-                            "value": 86
+                            "value": 87
                         },
                         {
                             "key": "Photographer",
@@ -116,7 +116,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "132 KB"
+                            "value": "227 KB"
                         },
                         {
                             "key": "Change",
@@ -124,7 +124,7 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004506
+                            "value": 0.004662
                         },
                         {
                             "key": "Q",
@@ -175,7 +175,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "124 KB"
+                            "value": "216 KB"
                         },
                         {
                             "key": "Change",
@@ -183,11 +183,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004683
+                            "value": 0.004665
                         },
                         {
                             "key": "Q",
-                            "value": 88
+                            "value": 85
                         },
                         {
                             "key": "Photographer",
@@ -201,7 +201,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "109 KB"
+                            "value": "191 KB"
                         },
                         {
                             "key": "Change",
@@ -209,11 +209,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004527
+                            "value": 0.0046
                         },
                         {
                             "key": "Q",
-                            "value": 89
+                            "value": 86
                         },
                         {
                             "key": "Photographer",
@@ -227,15 +227,15 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "106 KB"
+                            "value": "194 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-14 %"
+                            "value": "-10 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004845
+                            "value": 0.005081
                         },
                         {
                             "key": "Q",
@@ -253,19 +253,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "94 KB"
+                            "value": "166 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-24 %"
+                            "value": "-23 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004536
+                            "value": 0.004425
                         },
                         {
                             "key": "Q",
-                            "value": 81
+                            "value": 80
                         },
                         {
                             "key": "Photographer",
@@ -312,7 +312,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "68 KB"
+                            "value": "117 KB"
                         },
                         {
                             "key": "Change",
@@ -320,11 +320,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004417
+                            "value": 0.004463
                         },
                         {
                             "key": "Q",
-                            "value": 79
+                            "value": 76
                         },
                         {
                             "key": "Photographer",
@@ -338,19 +338,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "60 KB"
+                            "value": "105 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-12 %"
+                            "value": "-11 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004465
+                            "value": 0.004444
                         },
                         {
                             "key": "Q",
-                            "value": 82
+                            "value": 80
                         },
                         {
                             "key": "Photographer",
@@ -364,15 +364,15 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "54 KB"
+                            "value": "95 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-20 %"
+                            "value": "-19 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004783
+                            "value": 0.004917
                         },
                         {
                             "key": "Q",
@@ -390,15 +390,15 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "38 KB"
+                            "value": "59 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-45 %"
+                            "value": "-50 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004417
+                            "value": 0.004587
                         },
                         {
                             "key": "Q",
@@ -449,7 +449,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "118 KB"
+                            "value": "210 KB"
                         },
                         {
                             "key": "Change",
@@ -457,11 +457,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004508
+                            "value": 0.004545
                         },
                         {
                             "key": "Q",
-                            "value": 87
+                            "value": 84
                         },
                         {
                             "key": "Photographer",
@@ -475,7 +475,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "100 KB"
+                            "value": "176 KB"
                         },
                         {
                             "key": "Change",
@@ -483,11 +483,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004626
+                            "value": 0.004632
                         },
                         {
                             "key": "Q",
-                            "value": 87
+                            "value": 85
                         },
                         {
                             "key": "Photographer",
@@ -501,19 +501,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "101 KB"
+                            "value": "204 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-14 %"
+                            "value": "-3 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004835
+                            "value": 0.004543
                         },
                         {
                             "key": "Q",
-                            "value": 89
+                            "value": 90
                         },
                         {
                             "key": "Photographer",
@@ -527,19 +527,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "84 KB"
+                            "value": "145 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-28 %"
+                            "value": "-31 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004429
+                            "value": 0.004484
                         },
                         {
                             "key": "Q",
-                            "value": 78
+                            "value": 77
                         },
                         {
                             "key": "Photographer",
@@ -586,7 +586,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "166 KB"
+                            "value": "266 KB"
                         },
                         {
                             "key": "Change",
@@ -594,11 +594,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004595
+                            "value": 0.004551
                         },
                         {
                             "key": "Q",
-                            "value": 84
+                            "value": 80
                         },
                         {
                             "key": "Photographer",
@@ -612,7 +612,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "151 KB"
+                            "value": "243 KB"
                         },
                         {
                             "key": "Change",
@@ -620,11 +620,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004579
+                            "value": 0.004401
                         },
                         {
                             "key": "Q",
-                            "value": 85
+                            "value": 82
                         },
                         {
                             "key": "Photographer",
@@ -638,19 +638,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "145 KB"
+                            "value": "239 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-13 %"
+                            "value": "-10 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004832
+                            "value": 0.004407
                         },
                         {
                             "key": "Q",
-                            "value": 86
+                            "value": 87
                         },
                         {
                             "key": "Photographer",
@@ -664,19 +664,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "106 KB"
+                            "value": "161 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-36 %"
+                            "value": "-39 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004751
+                            "value": 0.004432
                         },
                         {
                             "key": "Q",
-                            "value": 71
+                            "value": 72
                         },
                         {
                             "key": "Photographer",
@@ -723,7 +723,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "128 KB"
+                            "value": "230 KB"
                         },
                         {
                             "key": "Change",
@@ -731,11 +731,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.00457
+                            "value": 0.004552
                         },
                         {
                             "key": "Q",
-                            "value": 83
+                            "value": 80
                         },
                         {
                             "key": "Photographer",
@@ -749,7 +749,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "121 KB"
+                            "value": "217 KB"
                         },
                         {
                             "key": "Change",
@@ -757,11 +757,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004549
+                            "value": 0.004502
                         },
                         {
                             "key": "Q",
-                            "value": 86
+                            "value": 84
                         },
                         {
                             "key": "Photographer",
@@ -775,19 +775,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "127 KB"
+                            "value": "226 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-0 %"
+                            "value": "-2 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004501
+                            "value": 0.004723
                         },
                         {
                             "key": "Q",
-                            "value": 88
+                            "value": 87
                         },
                         {
                             "key": "Photographer",
@@ -801,7 +801,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "90 KB"
+                            "value": "161 KB"
                         },
                         {
                             "key": "Change",
@@ -809,11 +809,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004858
+                            "value": 0.004589
                         },
                         {
                             "key": "Q",
-                            "value": 71
+                            "value": 72
                         },
                         {
                             "key": "Photographer",
@@ -860,7 +860,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "73 KB"
+                            "value": "129 KB"
                         },
                         {
                             "key": "Change",
@@ -868,11 +868,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004416
+                            "value": 0.004442
                         },
                         {
                             "key": "Q",
-                            "value": 76
+                            "value": 75
                         },
                         {
                             "key": "Photographer",
@@ -886,15 +886,15 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "64 KB"
+                            "value": "112 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-12 %"
+                            "value": "-13 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004504
+                            "value": 0.004422
                         },
                         {
                             "key": "Q",
@@ -912,15 +912,15 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "59 KB"
+                            "value": "100 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-19 %"
+                            "value": "-22 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004423
+                            "value": 0.004552
                         },
                         {
                             "key": "Q",
@@ -938,19 +938,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "36 KB"
+                            "value": "61 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-50 %"
+                            "value": "-53 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004803
+                            "value": 0.004498
                         },
                         {
                             "key": "Q",
-                            "value": 68
+                            "value": 70
                         },
                         {
                             "key": "Photographer",
@@ -997,7 +997,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "183 KB"
+                            "value": "374 KB"
                         },
                         {
                             "key": "Change",
@@ -1005,7 +1005,7 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004442
+                            "value": 0.00465
                         },
                         {
                             "key": "Q",
@@ -1023,7 +1023,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "174 KB"
+                            "value": "354 KB"
                         },
                         {
                             "key": "Change",
@@ -1031,7 +1031,7 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004535
+                            "value": 0.004661
                         },
                         {
                             "key": "Q",
@@ -1049,19 +1049,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "163 KB"
+                            "value": "360 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-11 %"
+                            "value": "-4 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.00485
+                            "value": 0.004486
                         },
                         {
                             "key": "Q",
-                            "value": 85
+                            "value": 87
                         },
                         {
                             "key": "Photographer",
@@ -1075,19 +1075,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "120 KB"
+                            "value": "264 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-35 %"
+                            "value": "-30 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004626
+                            "value": 0.004474
                         },
                         {
                             "key": "Q",
-                            "value": 71
+                            "value": 73
                         },
                         {
                             "key": "Photographer",
@@ -1134,7 +1134,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "80 KB"
+                            "value": "225 KB"
                         },
                         {
                             "key": "Change",
@@ -1142,11 +1142,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004606
+                            "value": 0.00449
                         },
                         {
                             "key": "Q",
-                            "value": 82
+                            "value": 87
                         },
                         {
                             "key": "Photographer",
@@ -1160,19 +1160,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "75 KB"
+                            "value": "195 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-7 %"
+                            "value": "-13 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004466
+                            "value": 0.004775
                         },
                         {
                             "key": "Q",
-                            "value": 86
+                            "value": 89
                         },
                         {
                             "key": "Photographer",
@@ -1186,19 +1186,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "82 KB"
+                            "value": "227 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "2 %"
+                            "value": "1 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004402
+                            "value": 0.004731
                         },
                         {
                             "key": "Q",
-                            "value": 89
+                            "value": 90
                         },
                         {
                             "key": "Photographer",
@@ -1212,19 +1212,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "53 KB"
+                            "value": "172 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-34 %"
+                            "value": "-24 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004583
+                            "value": 0.004481
                         },
                         {
                             "key": "Q",
-                            "value": 76
+                            "value": 77
                         },
                         {
                             "key": "Photographer",
@@ -1271,7 +1271,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "88 KB"
+                            "value": "222 KB"
                         },
                         {
                             "key": "Change",
@@ -1279,11 +1279,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004652
+                            "value": 0.004476
                         },
                         {
                             "key": "Q",
-                            "value": 82
+                            "value": 86
                         },
                         {
                             "key": "Photographer",
@@ -1297,19 +1297,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "84 KB"
+                            "value": "202 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-5 %"
+                            "value": "-9 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004447
+                            "value": 0.004546
                         },
                         {
                             "key": "Q",
-                            "value": 86
+                            "value": 89
                         },
                         {
                             "key": "Photographer",
@@ -1323,19 +1323,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "85 KB"
+                            "value": "228 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-3 %"
+                            "value": "3 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004666
+                            "value": 0.004616
                         },
                         {
                             "key": "Q",
-                            "value": 89
+                            "value": 90
                         },
                         {
                             "key": "Photographer",
@@ -1349,19 +1349,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "52 KB"
+                            "value": "159 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-41 %"
+                            "value": "-28 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004805
+                            "value": 0.004518
                         },
                         {
                             "key": "Q",
-                            "value": 75
+                            "value": 77
                         },
                         {
                             "key": "Photographer",
@@ -1408,7 +1408,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "139 KB"
+                            "value": "259 KB"
                         },
                         {
                             "key": "Change",
@@ -1416,11 +1416,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004503
+                            "value": 0.004422
                         },
                         {
                             "key": "Q",
-                            "value": 86
+                            "value": 84
                         },
                         {
                             "key": "Photographer",
@@ -1434,19 +1434,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "129 KB"
+                            "value": "234 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-7 %"
+                            "value": "-10 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.0045
+                            "value": 0.004567
                         },
                         {
                             "key": "Q",
-                            "value": 88
+                            "value": 86
                         },
                         {
                             "key": "Photographer",
@@ -1460,15 +1460,15 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "130 KB"
+                            "value": "235 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-7 %"
+                            "value": "-9 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004468
+                            "value": 0.004787
                         },
                         {
                             "key": "Q",
@@ -1486,15 +1486,15 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "98 KB"
+                            "value": "173 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-30 %"
+                            "value": "-33 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004411
+                            "value": 0.00467
                         },
                         {
                             "key": "Q",
@@ -1545,7 +1545,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "76 KB"
+                            "value": "141 KB"
                         },
                         {
                             "key": "Change",
@@ -1553,11 +1553,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.00446
+                            "value": 0.004424
                         },
                         {
                             "key": "Q",
-                            "value": 80
+                            "value": 77
                         },
                         {
                             "key": "Photographer",
@@ -1571,19 +1571,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "70 KB"
+                            "value": "125 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-9 %"
+                            "value": "-11 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004482
+                            "value": 0.004631
                         },
                         {
                             "key": "Q",
-                            "value": 84
+                            "value": 82
                         },
                         {
                             "key": "Photographer",
@@ -1597,15 +1597,15 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "72 KB"
+                            "value": "135 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-6 %"
+                            "value": "-4 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004577
+                            "value": 0.004923
                         },
                         {
                             "key": "Q",
@@ -1623,7 +1623,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "50 KB"
+                            "value": "92 KB"
                         },
                         {
                             "key": "Change",
@@ -1631,11 +1631,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004691
+                            "value": 0.004494
                         },
                         {
                             "key": "Q",
-                            "value": 73
+                            "value": 74
                         },
                         {
                             "key": "Photographer",
@@ -1682,7 +1682,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "233 KB"
+                            "value": "452 KB"
                         },
                         {
                             "key": "Change",
@@ -1690,11 +1690,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004676
+                            "value": 0.004497
                         },
                         {
                             "key": "Q",
-                            "value": 88
+                            "value": 87
                         },
                         {
                             "key": "Photographer",
@@ -1708,19 +1708,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "227 KB"
+                            "value": "418 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-2 %"
+                            "value": "-7 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004552
+                            "value": 0.004752
                         },
                         {
                             "key": "Q",
-                            "value": 90
+                            "value": 88
                         },
                         {
                             "key": "Photographer",
@@ -1734,19 +1734,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "218 KB"
+                            "value": "445 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-6 %"
+                            "value": "-2 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.005002
+                            "value": 0.004449
                         },
                         {
                             "key": "Q",
-                            "value": 86
+                            "value": 87
                         },
                         {
                             "key": "Photographer",
@@ -1760,15 +1760,15 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "182 KB"
+                            "value": "339 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-22 %"
+                            "value": "-25 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004659
+                            "value": 0.004875
                         },
                         {
                             "key": "Q",
@@ -1819,7 +1819,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "163 KB"
+                            "value": "282 KB"
                         },
                         {
                             "key": "Change",
@@ -1827,11 +1827,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004652
+                            "value": 0.004629
                         },
                         {
                             "key": "Q",
-                            "value": 86
+                            "value": 83
                         },
                         {
                             "key": "Photographer",
@@ -1845,19 +1845,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "153 KB"
+                            "value": "253 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-6 %"
+                            "value": "-10 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004501
+                            "value": 0.004686
                         },
                         {
                             "key": "Q",
-                            "value": 88
+                            "value": 85
                         },
                         {
                             "key": "Photographer",
@@ -1871,15 +1871,15 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "150 KB"
+                            "value": "254 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-8 %"
+                            "value": "-10 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004792
+                            "value": 0.004966
                         },
                         {
                             "key": "Q",
@@ -1897,19 +1897,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "113 KB"
+                            "value": "196 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-31 %"
+                            "value": "-30 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004904
+                            "value": 0.004479
                         },
                         {
                             "key": "Q",
-                            "value": 73
+                            "value": 74
                         },
                         {
                             "key": "Photographer",
@@ -1956,7 +1956,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "115 KB"
+                            "value": "200 KB"
                         },
                         {
                             "key": "Change",
@@ -1964,11 +1964,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004452
+                            "value": 0.004567
                         },
                         {
                             "key": "Q",
-                            "value": 88
+                            "value": 85
                         },
                         {
                             "key": "Photographer",
@@ -1982,19 +1982,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "95 KB"
+                            "value": "162 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-17 %"
+                            "value": "-19 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004536
+                            "value": 0.004704
                         },
                         {
                             "key": "Q",
-                            "value": 88
+                            "value": 85
                         },
                         {
                             "key": "Photographer",
@@ -2008,15 +2008,15 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "93 KB"
+                            "value": "185 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-19 %"
+                            "value": "-8 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.005007
+                            "value": 0.004791
                         },
                         {
                             "key": "Q",
@@ -2034,15 +2034,15 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "73 KB"
+                            "value": "129 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-37 %"
+                            "value": "-36 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004485
+                            "value": 0.004493
                         },
                         {
                             "key": "Q",
@@ -2093,7 +2093,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "103 KB"
+                            "value": "187 KB"
                         },
                         {
                             "key": "Change",
@@ -2101,11 +2101,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004444
+                            "value": 0.00465
                         },
                         {
                             "key": "Q",
-                            "value": 83
+                            "value": 80
                         },
                         {
                             "key": "Photographer",
@@ -2119,19 +2119,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "94 KB"
+                            "value": "178 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-9 %"
+                            "value": "-5 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.00455
+                            "value": 0.004405
                         },
                         {
                             "key": "Q",
-                            "value": 86
+                            "value": 85
                         },
                         {
                             "key": "Photographer",
@@ -2145,19 +2145,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "93 KB"
+                            "value": "190 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-10 %"
+                            "value": "2 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004788
+                            "value": 0.004447
                         },
                         {
                             "key": "Q",
-                            "value": 88
+                            "value": 89
                         },
                         {
                             "key": "Photographer",
@@ -2171,15 +2171,15 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "69 KB"
+                            "value": "124 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-33 %"
+                            "value": "-34 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.00454
+                            "value": 0.004748
                         },
                         {
                             "key": "Q",
@@ -2230,7 +2230,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "101 KB"
+                            "value": "223 KB"
                         },
                         {
                             "key": "Change",
@@ -2238,11 +2238,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004455
+                            "value": 0.00465
                         },
                         {
                             "key": "Q",
-                            "value": 83
+                            "value": 85
                         },
                         {
                             "key": "Photographer",
@@ -2256,19 +2256,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "91 KB"
+                            "value": "207 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-10 %"
+                            "value": "-7 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004547
+                            "value": 0.004631
                         },
                         {
                             "key": "Q",
-                            "value": 86
+                            "value": 88
                         },
                         {
                             "key": "Photographer",
@@ -2282,19 +2282,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "93 KB"
+                            "value": "236 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-8 %"
+                            "value": "6 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004769
+                            "value": 0.00449
                         },
                         {
                             "key": "Q",
-                            "value": 89
+                            "value": 90
                         },
                         {
                             "key": "Photographer",
@@ -2308,19 +2308,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "70 KB"
+                            "value": "174 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-30 %"
+                            "value": "-22 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004463
+                            "value": 0.004561
                         },
                         {
                             "key": "Q",
-                            "value": 75
+                            "value": 77
                         },
                         {
                             "key": "Photographer",
@@ -2367,7 +2367,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "180 KB"
+                            "value": "402 KB"
                         },
                         {
                             "key": "Change",
@@ -2375,11 +2375,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004567
+                            "value": 0.004496
                         },
                         {
                             "key": "Q",
-                            "value": 89
+                            "value": 90
                         },
                         {
                             "key": "Photographer",
@@ -2393,19 +2393,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "171 KB"
+                            "value": "371 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-5 %"
+                            "value": "-8 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004428
+                            "value": 0.004447
                         },
                         {
                             "key": "Q",
-                            "value": 90
+                            "value": 91
                         },
                         {
                             "key": "Photographer",
@@ -2419,15 +2419,15 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "177 KB"
+                            "value": "385 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-2 %"
+                            "value": "-4 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004865
+                            "value": 0.004892
                         },
                         {
                             "key": "Q",
@@ -2445,19 +2445,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "138 KB"
+                            "value": "312 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-24 %"
+                            "value": "-22 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004737
+                            "value": 0.004543
                         },
                         {
                             "key": "Q",
-                            "value": 76
+                            "value": 77
                         },
                         {
                             "key": "Photographer",
@@ -2504,7 +2504,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "127 KB"
+                            "value": "263 KB"
                         },
                         {
                             "key": "Change",
@@ -2512,7 +2512,7 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004635
+                            "value": 0.004427
                         },
                         {
                             "key": "Q",
@@ -2530,19 +2530,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "122 KB"
+                            "value": "240 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-4 %"
+                            "value": "-9 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004421
+                            "value": 0.004515
                         },
                         {
                             "key": "Q",
-                            "value": 88
+                            "value": 87
                         },
                         {
                             "key": "Photographer",
@@ -2556,15 +2556,15 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "124 KB"
+                            "value": "259 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-2 %"
+                            "value": "-1 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004459
+                            "value": 0.004444
                         },
                         {
                             "key": "Q",
@@ -2582,19 +2582,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "86 KB"
+                            "value": "186 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-32 %"
+                            "value": "-29 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004583
+                            "value": 0.004442
                         },
                         {
                             "key": "Q",
-                            "value": 74
+                            "value": 76
                         },
                         {
                             "key": "Photographer",
@@ -2641,7 +2641,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "87 KB"
+                            "value": "184 KB"
                         },
                         {
                             "key": "Change",
@@ -2649,7 +2649,7 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004516
+                            "value": 0.004601
                         },
                         {
                             "key": "Q",
@@ -2667,7 +2667,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "78 KB"
+                            "value": "163 KB"
                         },
                         {
                             "key": "Change",
@@ -2675,7 +2675,7 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004597
+                            "value": 0.004644
                         },
                         {
                             "key": "Q",
@@ -2693,19 +2693,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "85 KB"
+                            "value": "195 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-3 %"
+                            "value": "6 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004465
+                            "value": 0.004522
                         },
                         {
                             "key": "Q",
-                            "value": 89
+                            "value": 90
                         },
                         {
                             "key": "Photographer",
@@ -2719,19 +2719,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "55 KB"
+                            "value": "120 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-37 %"
+                            "value": "-35 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004451
+                            "value": 0.004761
                         },
                         {
                             "key": "Q",
-                            "value": 74
+                            "value": 75
                         },
                         {
                             "key": "Photographer",
@@ -2778,7 +2778,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "120 KB"
+                            "value": "254 KB"
                         },
                         {
                             "key": "Change",
@@ -2786,7 +2786,7 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004435
+                            "value": 0.004596
                         },
                         {
                             "key": "Q",
@@ -2804,19 +2804,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "109 KB"
+                            "value": "240 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-9 %"
+                            "value": "-5 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004568
+                            "value": 0.004435
                         },
                         {
                             "key": "Q",
-                            "value": 87
+                            "value": 88
                         },
                         {
                             "key": "Photographer",
@@ -2830,19 +2830,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "110 KB"
+                            "value": "264 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-8 %"
+                            "value": "4 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004826
+                            "value": 0.004822
                         },
                         {
                             "key": "Q",
-                            "value": 88
+                            "value": 89
                         },
                         {
                             "key": "Photographer",
@@ -2856,19 +2856,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "89 KB"
+                            "value": "192 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-27 %"
+                            "value": "-24 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004475
+                            "value": 0.004776
                         },
                         {
                             "key": "Q",
-                            "value": 74
+                            "value": 76
                         },
                         {
                             "key": "Photographer",
@@ -2915,7 +2915,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "140 KB"
+                            "value": "277 KB"
                         },
                         {
                             "key": "Change",
@@ -2923,11 +2923,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004619
+                            "value": 0.004417
                         },
                         {
                             "key": "Q",
-                            "value": 87
+                            "value": 86
                         },
                         {
                             "key": "Photographer",
@@ -2941,19 +2941,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "128 KB"
+                            "value": "247 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-8 %"
+                            "value": "-11 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004571
+                            "value": 0.004449
                         },
                         {
                             "key": "Q",
-                            "value": 88
+                            "value": 87
                         },
                         {
                             "key": "Photographer",
@@ -2967,15 +2967,15 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "140 KB"
+                            "value": "274 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-0 %"
+                            "value": "-1 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004642
+                            "value": 0.005141
                         },
                         {
                             "key": "Q",
@@ -2993,19 +2993,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "102 KB"
+                            "value": "204 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-27 %"
+                            "value": "-26 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.00475
+                            "value": 0.004518
                         },
                         {
                             "key": "Q",
-                            "value": 75
+                            "value": 76
                         },
                         {
                             "key": "Photographer",
@@ -3052,7 +3052,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "66 KB"
+                            "value": "131 KB"
                         },
                         {
                             "key": "Change",
@@ -3060,7 +3060,7 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004588
+                            "value": 0.00453
                         },
                         {
                             "key": "Q",
@@ -3078,15 +3078,15 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "59 KB"
+                            "value": "112 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-11 %"
+                            "value": "-15 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004418
+                            "value": 0.004709
                         },
                         {
                             "key": "Q",
@@ -3104,15 +3104,15 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "62 KB"
+                            "value": "121 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-6 %"
+                            "value": "-8 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004476
+                            "value": 0.00474
                         },
                         {
                             "key": "Q",
@@ -3130,19 +3130,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "37 KB"
+                            "value": "81 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-43 %"
+                            "value": "-38 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.00443
+                            "value": 0.00447
                         },
                         {
                             "key": "Q",
-                            "value": 74
+                            "value": 76
                         },
                         {
                             "key": "Photographer",
@@ -3189,7 +3189,7 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "137 KB"
+                            "value": "228 KB"
                         },
                         {
                             "key": "Change",
@@ -3197,11 +3197,11 @@
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004443
+                            "value": 0.004423
                         },
                         {
                             "key": "Q",
-                            "value": 84
+                            "value": 80
                         },
                         {
                             "key": "Photographer",
@@ -3215,19 +3215,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "128 KB"
+                            "value": "206 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-6 %"
+                            "value": "-10 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004449
+                            "value": 0.004688
                         },
                         {
                             "key": "Q",
-                            "value": 86
+                            "value": 82
                         },
                         {
                             "key": "Photographer",
@@ -3241,19 +3241,19 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "131 KB"
+                            "value": "212 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-5 %"
+                            "value": "-7 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004433
+                            "value": 0.004977
                         },
                         {
                             "key": "Q",
-                            "value": 88
+                            "value": 87
                         },
                         {
                             "key": "Photographer",
@@ -3267,15 +3267,15 @@
                     "labels": [
                         {
                             "key": "Size",
-                            "value": "97 KB"
+                            "value": "156 KB"
                         },
                         {
                             "key": "Change",
-                            "value": "-29 %"
+                            "value": "-32 %"
                         },
                         {
                             "key": "SSIM",
-                            "value": 0.004568
+                            "value": 0.004567
                         },
                         {
                             "key": "Q",
