@@ -1,0 +1,3293 @@
+{
+    "default_scale": "fit",
+    "images": [
+        {
+            "image_name": "Kodim 1",
+            "width": 1500,
+            "height": 1000,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0001.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0001.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "175 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004472
+                        },
+                        {
+                            "key": "Q",
+                            "value": 86
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0001.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "164 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-6 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004581
+                        },
+                        {
+                            "key": "Q",
+                            "value": 88
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0001.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "150 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-14 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.005082
+                        },
+                        {
+                            "key": "Q",
+                            "value": 86
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0001.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "132 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-25 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004506
+                        },
+                        {
+                            "key": "Q",
+                            "value": 72
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 2",
+            "width": 1500,
+            "height": 1000,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0002.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0002.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "124 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004683
+                        },
+                        {
+                            "key": "Q",
+                            "value": 88
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0002.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "109 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-12 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004527
+                        },
+                        {
+                            "key": "Q",
+                            "value": 89
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0002.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "106 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-14 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004845
+                        },
+                        {
+                            "key": "Q",
+                            "value": 90
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0002.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "94 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-24 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004536
+                        },
+                        {
+                            "key": "Q",
+                            "value": 81
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 3",
+            "width": 1500,
+            "height": 1000,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0003.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0003.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "68 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004417
+                        },
+                        {
+                            "key": "Q",
+                            "value": 79
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0003.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "60 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-12 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004465
+                        },
+                        {
+                            "key": "Q",
+                            "value": 82
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0003.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "54 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-20 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004783
+                        },
+                        {
+                            "key": "Q",
+                            "value": 87
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0003.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "38 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-45 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004417
+                        },
+                        {
+                            "key": "Q",
+                            "value": 72
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 4",
+            "width": 999,
+            "height": 1500,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0004.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Bob Clemens"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0004.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "118 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004508
+                        },
+                        {
+                            "key": "Q",
+                            "value": 87
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Bob Clemens"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0004.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "100 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-16 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004626
+                        },
+                        {
+                            "key": "Q",
+                            "value": 87
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Bob Clemens"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0004.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "101 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-14 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004835
+                        },
+                        {
+                            "key": "Q",
+                            "value": 89
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Bob Clemens"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0004.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "84 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-28 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004429
+                        },
+                        {
+                            "key": "Q",
+                            "value": 78
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Bob Clemens"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 5",
+            "width": 1500,
+            "height": 1000,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0005.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Steve Kelly"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0005.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "166 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004595
+                        },
+                        {
+                            "key": "Q",
+                            "value": 84
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Steve Kelly"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0005.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "151 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-9 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004579
+                        },
+                        {
+                            "key": "Q",
+                            "value": 85
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Steve Kelly"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0005.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "145 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-13 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004832
+                        },
+                        {
+                            "key": "Q",
+                            "value": 86
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Steve Kelly"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0005.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "106 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-36 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004751
+                        },
+                        {
+                            "key": "Q",
+                            "value": 71
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Steve Kelly"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 6",
+            "width": 1500,
+            "height": 1000,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0006.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0006.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "128 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.00457
+                        },
+                        {
+                            "key": "Q",
+                            "value": 83
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0006.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "121 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-6 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004549
+                        },
+                        {
+                            "key": "Q",
+                            "value": 86
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0006.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "127 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004501
+                        },
+                        {
+                            "key": "Q",
+                            "value": 88
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0006.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "90 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-30 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004858
+                        },
+                        {
+                            "key": "Q",
+                            "value": 71
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 7",
+            "width": 1500,
+            "height": 1000,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0007.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0007.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "73 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004416
+                        },
+                        {
+                            "key": "Q",
+                            "value": 76
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0007.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "64 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-12 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004504
+                        },
+                        {
+                            "key": "Q",
+                            "value": 78
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0007.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "59 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-19 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004423
+                        },
+                        {
+                            "key": "Q",
+                            "value": 86
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0007.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "36 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-50 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004803
+                        },
+                        {
+                            "key": "Q",
+                            "value": 68
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 8",
+            "width": 1500,
+            "height": 1000,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0008.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alfons Rudolph"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0008.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "183 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004442
+                        },
+                        {
+                            "key": "Q",
+                            "value": 85
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alfons Rudolph"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0008.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "174 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-5 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004535
+                        },
+                        {
+                            "key": "Q",
+                            "value": 87
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alfons Rudolph"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0008.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "163 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-11 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.00485
+                        },
+                        {
+                            "key": "Q",
+                            "value": 85
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alfons Rudolph"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0008.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "120 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-35 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004626
+                        },
+                        {
+                            "key": "Q",
+                            "value": 71
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alfons Rudolph"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 9",
+            "width": 1000,
+            "height": 1500,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0009.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "John Menihan"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0009.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "80 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004606
+                        },
+                        {
+                            "key": "Q",
+                            "value": 82
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "John Menihan"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0009.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "75 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-7 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004466
+                        },
+                        {
+                            "key": "Q",
+                            "value": 86
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "John Menihan"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0009.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "82 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "2 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004402
+                        },
+                        {
+                            "key": "Q",
+                            "value": 89
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "John Menihan"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0009.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "53 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-34 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004583
+                        },
+                        {
+                            "key": "Q",
+                            "value": 76
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "John Menihan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 10",
+            "width": 1000,
+            "height": 1500,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0010.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "John Menihan"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0010.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "88 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004652
+                        },
+                        {
+                            "key": "Q",
+                            "value": 82
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "John Menihan"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0010.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "84 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-5 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004447
+                        },
+                        {
+                            "key": "Q",
+                            "value": 86
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "John Menihan"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0010.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "85 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-3 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004666
+                        },
+                        {
+                            "key": "Q",
+                            "value": 89
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "John Menihan"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0010.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "52 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-41 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004805
+                        },
+                        {
+                            "key": "Q",
+                            "value": 75
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "John Menihan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 11",
+            "width": 1500,
+            "height": 1000,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0011.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0011.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "139 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004503
+                        },
+                        {
+                            "key": "Q",
+                            "value": 86
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0011.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "129 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-7 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.0045
+                        },
+                        {
+                            "key": "Q",
+                            "value": 88
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0011.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "130 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-7 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004468
+                        },
+                        {
+                            "key": "Q",
+                            "value": 89
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0011.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "98 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-30 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004411
+                        },
+                        {
+                            "key": "Q",
+                            "value": 74
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 12",
+            "width": 1500,
+            "height": 1000,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0012.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0012.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "76 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.00446
+                        },
+                        {
+                            "key": "Q",
+                            "value": 80
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0012.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "70 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-9 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004482
+                        },
+                        {
+                            "key": "Q",
+                            "value": 84
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0012.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "72 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-6 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004577
+                        },
+                        {
+                            "key": "Q",
+                            "value": 88
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0012.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "50 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-35 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004691
+                        },
+                        {
+                            "key": "Q",
+                            "value": 73
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 13",
+            "width": 1500,
+            "height": 1000,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0013.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Norm Kerr"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0013.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "233 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004676
+                        },
+                        {
+                            "key": "Q",
+                            "value": 88
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Norm Kerr"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0013.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "227 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-2 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004552
+                        },
+                        {
+                            "key": "Q",
+                            "value": 90
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Norm Kerr"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0013.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "218 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-6 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.005002
+                        },
+                        {
+                            "key": "Q",
+                            "value": 86
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Norm Kerr"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0013.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "182 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-22 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004659
+                        },
+                        {
+                            "key": "Q",
+                            "value": 71
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Norm Kerr"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 14",
+            "width": 1500,
+            "height": 1000,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0014.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Norm Kerr"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0014.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "163 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004652
+                        },
+                        {
+                            "key": "Q",
+                            "value": 86
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Norm Kerr"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0014.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "153 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-6 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004501
+                        },
+                        {
+                            "key": "Q",
+                            "value": 88
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Norm Kerr"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0014.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "150 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-8 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004792
+                        },
+                        {
+                            "key": "Q",
+                            "value": 88
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Norm Kerr"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0014.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "113 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-31 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004904
+                        },
+                        {
+                            "key": "Q",
+                            "value": 73
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Norm Kerr"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 15",
+            "width": 1500,
+            "height": 1000,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0015.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Steve Kelly"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0015.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "115 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004452
+                        },
+                        {
+                            "key": "Q",
+                            "value": 88
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Steve Kelly"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0015.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "95 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-17 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004536
+                        },
+                        {
+                            "key": "Q",
+                            "value": 88
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Steve Kelly"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0015.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "93 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-19 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.005007
+                        },
+                        {
+                            "key": "Q",
+                            "value": 90
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Steve Kelly"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0015.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "73 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-37 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004485
+                        },
+                        {
+                            "key": "Q",
+                            "value": 76
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Steve Kelly"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 16",
+            "width": 1500,
+            "height": 1000,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0016.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0016.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "103 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004444
+                        },
+                        {
+                            "key": "Q",
+                            "value": 83
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0016.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "94 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-9 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.00455
+                        },
+                        {
+                            "key": "Q",
+                            "value": 86
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0016.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "93 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-10 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004788
+                        },
+                        {
+                            "key": "Q",
+                            "value": 88
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0016.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "69 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-33 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.00454
+                        },
+                        {
+                            "key": "Q",
+                            "value": 73
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Don Cochran"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 17",
+            "width": 1000,
+            "height": 1500,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0017.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Stephen Wolf"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0017.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "101 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004455
+                        },
+                        {
+                            "key": "Q",
+                            "value": 83
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Stephen Wolf"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0017.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "91 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-10 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004547
+                        },
+                        {
+                            "key": "Q",
+                            "value": 86
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Stephen Wolf"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0017.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "93 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-8 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004769
+                        },
+                        {
+                            "key": "Q",
+                            "value": 89
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Stephen Wolf"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0017.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "70 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-30 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004463
+                        },
+                        {
+                            "key": "Q",
+                            "value": 75
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Stephen Wolf"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 18",
+            "width": 1000,
+            "height": 1500,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0018.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alan Fink"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0018.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "180 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004567
+                        },
+                        {
+                            "key": "Q",
+                            "value": 89
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alan Fink"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0018.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "171 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-5 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004428
+                        },
+                        {
+                            "key": "Q",
+                            "value": 90
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alan Fink"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0018.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "177 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-2 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004865
+                        },
+                        {
+                            "key": "Q",
+                            "value": 90
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alan Fink"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0018.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "138 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-24 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004737
+                        },
+                        {
+                            "key": "Q",
+                            "value": 76
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alan Fink"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 19",
+            "width": 1000,
+            "height": 1500,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0019.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alan Fink"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0019.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "127 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004635
+                        },
+                        {
+                            "key": "Q",
+                            "value": 85
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alan Fink"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0019.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "122 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-4 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004421
+                        },
+                        {
+                            "key": "Q",
+                            "value": 88
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alan Fink"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0019.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "124 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-2 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004459
+                        },
+                        {
+                            "key": "Q",
+                            "value": 89
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alan Fink"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0019.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "86 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-32 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004583
+                        },
+                        {
+                            "key": "Q",
+                            "value": 74
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alan Fink"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 20",
+            "width": 1500,
+            "height": 1000,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0020.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alan Fink"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0020.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "87 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004516
+                        },
+                        {
+                            "key": "Q",
+                            "value": 84
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alan Fink"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0020.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "78 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-11 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004597
+                        },
+                        {
+                            "key": "Q",
+                            "value": 86
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alan Fink"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0020.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "85 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-3 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004465
+                        },
+                        {
+                            "key": "Q",
+                            "value": 89
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alan Fink"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0020.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "55 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-37 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004451
+                        },
+                        {
+                            "key": "Q",
+                            "value": 74
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alan Fink"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 21",
+            "width": 1500,
+            "height": 1000,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0021.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alan Fink"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0021.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "120 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004435
+                        },
+                        {
+                            "key": "Q",
+                            "value": 85
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alan Fink"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0021.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "109 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-9 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004568
+                        },
+                        {
+                            "key": "Q",
+                            "value": 87
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alan Fink"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0021.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "110 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-8 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004826
+                        },
+                        {
+                            "key": "Q",
+                            "value": 88
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alan Fink"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0021.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "89 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-27 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004475
+                        },
+                        {
+                            "key": "Q",
+                            "value": 74
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alan Fink"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 22",
+            "width": 1500,
+            "height": 1000,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0022.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Cindy Branham"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0022.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "140 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004619
+                        },
+                        {
+                            "key": "Q",
+                            "value": 87
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Cindy Branham"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0022.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "128 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-8 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004571
+                        },
+                        {
+                            "key": "Q",
+                            "value": 88
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Cindy Branham"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0022.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "140 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004642
+                        },
+                        {
+                            "key": "Q",
+                            "value": 89
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Cindy Branham"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0022.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "102 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-27 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.00475
+                        },
+                        {
+                            "key": "Q",
+                            "value": 75
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Cindy Branham"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 23",
+            "width": 1500,
+            "height": 1000,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0023.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Steve Kelly"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0023.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "66 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004588
+                        },
+                        {
+                            "key": "Q",
+                            "value": 79
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Steve Kelly"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0023.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "59 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-11 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004418
+                        },
+                        {
+                            "key": "Q",
+                            "value": 82
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Steve Kelly"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0023.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "62 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-6 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004476
+                        },
+                        {
+                            "key": "Q",
+                            "value": 89
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Steve Kelly"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0023.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "37 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-43 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.00443
+                        },
+                        {
+                            "key": "Q",
+                            "value": 74
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Steve Kelly"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "image_name": "Kodim 24",
+            "width": 1500,
+            "height": 1000,
+            "variants": [
+                {
+                    "variant_name": "original",
+                    "path": "images/img0024.png.original.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "–"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "—"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Q",
+                            "value": "—"
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alfons Rudolph"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "cjpeg",
+                    "path": "images/img0024.png.cjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "137 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "0 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004443
+                        },
+                        {
+                            "key": "Q",
+                            "value": 84
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alfons Rudolph"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "mozjpeg",
+                    "path": "images/img0024.png.mozjpeg.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "128 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-6 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004449
+                        },
+                        {
+                            "key": "Q",
+                            "value": 86
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alfons Rudolph"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "webp",
+                    "path": "images/img0024.png.webp.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "131 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-5 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004433
+                        },
+                        {
+                            "key": "Q",
+                            "value": 88
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alfons Rudolph"
+                        }
+                    ]
+                },
+                {
+                    "variant_name": "avif",
+                    "path": "images/img0024.png.avif.png",
+                    "labels": [
+                        {
+                            "key": "Size",
+                            "value": "97 KB"
+                        },
+                        {
+                            "key": "Change",
+                            "value": "-29 %"
+                        },
+                        {
+                            "key": "SSIM",
+                            "value": 0.004568
+                        },
+                        {
+                            "key": "Q",
+                            "value": 72
+                        },
+                        {
+                            "key": "Photographer",
+                            "value": "Alfons Rudolph"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
